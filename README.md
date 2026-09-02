@@ -49,4 +49,8 @@ This implementation bridges four core theoretical academic frameworks:
 * **Nickerson et al. (2013):** Taxonomy Development Methodology for Information Systems.
 * **Wei et al. (2022):** Chain-of-Thought Prompting Mechanisms.
 * **Gao et al. (2023):** Schema Adherence and Pydantic Formatting Constraints.
-* **Manning et al. (2024):** Semantic Compression Anomalies and Linguistic Ambiguity.
+* **Liang et al. (2022):** Holistic Language Model Architecture and System Evaluation.
+
+
+Unsupervised-software-taxonomy-generation
+Empirical design science evaluation benchmarking direct and Chain-of-Thought prompting strategies for unsupervised B2B enterprise software taxonomy construction on frontier LLMs.
